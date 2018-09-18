@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Tour Guide App - Beaverton, Oregon</string>
+    <string name="category_outdoors">Outdoors</string>
+    <string name="category_theaters">Theaters</string>
+    <string name="category_landmarks">Landmarks</string>
+    <string name="category_fun">Fun</string>
+    <string name="picture">picture</string>
+    <string name="als">Big Al\'s</string>
+    <string name="als_desc"><![CDATA[Big entertainment venue featuring a bowling alley, an arcade & a sports bar.\n\nAddress: 14950 SW Barrows Rd, Beaverton, OR 97007]]></string>
+    <string name="ifly">iFLY Indoor Skydiving</string>
+    <string name="ifly_desc">Experience the thrill of skydiving without having to jump from a perfectly good airplane.\n\nAddress: 10645 SW Greenburg Rd, Portland, OR 97223</string>
+    <string name="golf">Glowing Greens Mini Golf Blacklight Adventures Oregon</string>
+    <string name="golf_desc">Family fun with indoor blacklight mini golf and other fun things to do.\n\nAddress: 3855 SW Murray Blvd #2317, Beaverton, OR 97005</string>
+    <string name="park">Park Lanes Family Entertainment Center</string>
+    <string name="park_desc"><![CDATA[Old-school bowling alley with a pro shop, a restaurant, batting cages & a large arcade.\n\nAddress: 6360 SE Alexander St, Hillsboro, OR 97123]]></string>
+    <string name="memorial">Oregon Holocaust Memorial</string>
+    <string name="memorial_desc">Dedicated August 29, 2004, serves as a permanent reminder of the Holocaust.\n\nLocation: Washington Park, Portland, OR 97207</string>
+    <string name="mansion">Pittock Mansion</string>
+    <string name="mansion_desc">A historical home with wonderful views of downtown Portland.\n\nLocation: 3229 NW Pittock Dr, Portland, OR 97210</string>
+    <string name="harvey">Harvey The Giant Rabbit</string>
+    <string name="harvery_desc">Local landmark since 1974.\n\nLocation: 21250 SW Tualatin Valley Hwy, Aloha, OR 97003</string>
+    <string name="washingtonpark">Washington Park</string>
+    <string name="washingtonpark_desc">This popular park offers miles of trails, and an extensive rose garden.\n\nLocation: 1715 South West Skyline Boulevard, Portland, OR 97221</string>
+    <string name="zoo">Oregon Zoo</string>
+    <string name="zoo_desc">Community-supported since 1888, the Oregon Zoo is a world leader in animal welfare and conservation.\n\nLocation: 4001 SW Canyon Rd, Portland, OR 97221</string>
+    <string name="forestpark">Forest Park</string>
+    <string name="forestpark_desc"><![CDATA[The largest urban park in the county, lined with trails for hiking and biking.\n\nLocation: NW 29 & Upshur to Newberry Road, Portland, OR 97210]]></string>
+    <string name="fanno">Fanno Creek Trail</string>
+    <string name="fanno_desc">Paved path along Fanno Creek for hiking or biking.\n\nLocation: SW Denney Rd, Beaverton, OR</string>
+    <string name="century16">Century 16 Cedar Hills Crossing</string>
+    <string name="century16_desc"><![CDATA[Theater complex with multiple screens, all-stadium seating & self-service ticketing kiosks.\n\nAddress: 3200 SW Hocken Ave, Beaverton, OR 97005]]></string>
+    <string name="valley">Valley Theater</string>
+    <string name="valley_desc"><![CDATA[Retro discount, movie theater serving casual fare, beer & wine; 21+ only after 8 PM.\n\nAddress: 9360 SW Beaverton Hillsdale Hwy, Beaverton, OR 97005]]></string>
+    <string name="cinetopia">Cinetopia Progress Ridge 14</string>
+    <string name="Cinetopia_desc">Moviegoers can take food from the on-site eatery to their seats, with table service in 21+ theaters.\n\nAddress: 12345 SW Horizon Blvd #231, Beaverton, OR 97007</string>
+
+</resources>
